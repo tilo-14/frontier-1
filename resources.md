@@ -61,6 +61,7 @@ Use one of these RPC providers run to interact with Solana. RPCs expose API endp
 | Helius | [helius.dev](https://www.helius.dev/) |
 | QuickNode | [quicknode.com](https://www.quicknode.com/) |
 | Triton | [triton.one](https://triton.one/) |
+| Alchemy | [alchemy.com](https://www.alchemy.com/) |
 
 ## Wallets
 
